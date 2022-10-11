@@ -53,6 +53,38 @@ header.block {
     line-height: 80px;
 }
 
+/* Menu
+   ============================= */
+
+.menu-block {
+    background-color: #3e3e3e;
+    text-align: center;
+    min-height: 0;
+    padding: 40px 0;
+}
+
+.menu {
+    display: flex;
+    gap: 0 80px;
+    justify-content: center;
+}
+
+.menu li {
+    list-style: none;
+}
+
+.menu li a {
+    color: white;
+    text-decoration: none;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    transition: .2s;
+}
+
+.menu li a:hover {
+    color: #ed135d;
+}
+
 /* Intro
    ============================= */
 
@@ -61,6 +93,28 @@ header.block {
     text-align: center;
     font-weight: 300;
     min-height: 0;
+}
+
+/* Foto's
+   ============================= */
+
+.photos {
+    display: flex;
+    padding: 0;
+    min-height: 0;
+}
+
+.photos img {
+    width: 20%;
+    object-fit: cover;
+    height: 400px;
+    transition: .2s;
+    transform: scale(1, 1);
+}
+
+.photos img:hover {
+    transform: scale(1.1, 1.1);
+    z-index: 2;
 }
 
 /* Banner
@@ -105,4 +159,12 @@ footer h2 {
     font-weight: 300;
     margin-bottom: 0;
     font-size: 24px;
+}
+
+footer span {
+    font-size: 18px;
+}
+
+footer span a {
+    color: white;
 }
