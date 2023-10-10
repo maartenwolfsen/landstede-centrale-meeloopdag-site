@@ -5,6 +5,8 @@ Welkom bij de Landstede Site Hacking Extravaganza! Je leert in deze opdracht omg
 - Schrijf elke taak op een post-it.
 - Plan de taak in door de post-it op het kanban bord te plaatsen.
 - Je gaat nu bezig met de taken, veel succes! Aan het eind van de tijd ga jij jouw voortgang presenteren en vertel je meer over wat wel en niet is gelukt.
+- Download de websitebestanden via de groene knop "Code" en dan "Download ZIP". Pak het ZIP bestand vervolgens uit.
+- Vragen? Loop gerust even naar een docent toe!
 - Succes!
 
 ### Opdrachten
