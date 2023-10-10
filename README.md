@@ -1,13 +1,17 @@
 # LWP Landstede Site Hacking Extravaganza
-Welkom bij de Landstede Site Hacking Extravaganza! Je leert in deze opdracht omgaan met MBO-Scrum en neemt ook alvast een kijkje in de wereld van het programmeren.
+Welkom bij de Landstede Site Hacking Extravaganza! Je leert in deze opdracht de beginselen van MBO-Scrum en neemt ook alvast een kijkje in de wereld van het programmeren.
 
-- Lees de opdracht goed door!
+- Lees onderstaande opdracht goed door en bepaal wat de taken zijn! Dit is het plannen in een **sprint**.
 - Schrijf elke taak op een post-it.
-- Plan de taak in door de post-it op het kanban bord te plaatsen.
-- Je gaat nu bezig met de taken, veel succes! Aan het eind van de tijd ga jij jouw voortgang presenteren en vertel je meer over wat wel en niet is gelukt.
+- Plan de taak in door de post-it op het **Kanbanbord** op de muur te plaatsen
+- Ga starten met de taken. Aan het eind van de tijd gaan jullie in een **review** jouw voortgang presenteren en vertel je meer over wat wel en niet is gelukt.
+
+Wat ga je doen?
+
 - Download de websitebestanden via de groene knop "Code" en dan "Download ZIP". Pak het ZIP bestand vervolgens uit.
-- Vragen? Loop gerust even naar een docent toe!
-- Succes!
+- Vragen? Loop gerust even naar een docent toe en vraag ook je scrummasters om hulp
+
+Succes!
 
 ### Opdrachten
 Jij hebt als opdracht gekregen om de Landstede website te hacken! Wij willen dat jij daarom de code download en wat dingen gaat veranderen. Hierbij de dingen die moeten worden aangepast:
