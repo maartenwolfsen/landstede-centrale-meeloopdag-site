@@ -1,4 +1,4 @@
-# landstede-meeloopdag-site
+# LWP Landstede Site Hack
 Jij hebt als opdracht gekregen om de Landstede website te hacken! Wij willen dat jij daarom de code download en wat dingen gaat veranderen. Hierbij de dingen die moeten worden aangepast:
 
 - Verander de roze achtergrondkleur van het tweede blok naar bruin.
