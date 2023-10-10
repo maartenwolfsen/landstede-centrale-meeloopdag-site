@@ -7,6 +7,7 @@ Welkom bij de Landstede Site Hacking Extravaganza! Je leert in deze opdracht omg
 - Je gaat nu bezig met de taken, veel succes! Aan het eind van de tijd ga jij jouw voortgang presenteren en vertel je meer over wat wel en niet is gelukt.
 - Succes!
 
+### Opdrachten
 Jij hebt als opdracht gekregen om de Landstede website te hacken! Wij willen dat jij daarom de code download en wat dingen gaat veranderen. Hierbij de dingen die moeten worden aangepast:
 
 - Verander de roze achtergrondkleur van het tweede blok naar bruin.
