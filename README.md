@@ -1,4 +1,12 @@
 # LWP Landstede Site Hacking Extravaganza
+Welkom bij de Landstede Site Hacking Extravaganza! Je leert in deze opdracht omgaan met MBO-Scrum en neemt ook alvast een kijkje in de wereld van het programmeren.
+
+- Lees de opdracht goed door!
+- Schrijf elke taak op een post-it.
+- Plan de taak in door de post-it op het kanban bord te plaatsen.
+- Je gaat nu bezig met de taken, veel succes! Aan het eind van de tijd ga jij jouw voortgang presenteren en vertel je meer over wat wel en niet is gelukt.
+- Succes!
+
 Jij hebt als opdracht gekregen om de Landstede website te hacken! Wij willen dat jij daarom de code download en wat dingen gaat veranderen. Hierbij de dingen die moeten worden aangepast:
 
 - Verander de roze achtergrondkleur van het tweede blok naar bruin.
